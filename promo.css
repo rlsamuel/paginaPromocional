@@ -1,0 +1,54 @@
+    *{
+        margin:0px;
+        padding: 0px;
+    }
+    
+    h1{
+        margin-top: 5vmax;
+        text-align: center;
+        color: #cfcdca;
+    }
+
+    body{
+        background-color: #2e3032;
+    }
+
+     
+    
+    #carro{
+        width: 
+        50vmax;
+        height:55vmin ;
+        margin-right: 4vmax;
+        margin-top: 3vmax;
+   
+
+
+        
+    }
+    #descricao{
+        color: #cfcdca;
+    
+        font-size: larger;
+       font-style: italic;
+      
+       display: flex;
+       margin-left: 10vmin;
+       margin-right: 10vmin;
+       margin-top: 3vmax;
+        
+        
+    }
+    #utopia{
+        display: flex;
+       
+    }
+    #engine{
+        width: 2vmax;
+    }
+    header{
+background-color: #cfcdca;
+
+    }
+    
+    

@@ -1,0 +1,23 @@
+body{
+    background-color: #C9C0B9;
+}
+
+img{
+    width: 50%;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    display: flex;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70vmin;
+}
+#homee{
+    width: 2vmax;
+}
