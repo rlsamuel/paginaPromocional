@@ -1,0 +1,34 @@
+body{
+    background-color: #081E38;
+}
+h2{
+    text-align: center;
+    color: #E4011B;
+}
+
+
+
+h3{
+    color: aliceblue;
+    margin-left: 1rem;
+}
+li{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+div{
+    float: left;
+    margin-left: 5vmax;
+}
+
+#divp1{
+    float: right;
+    margin-right: 5vmax;
+}
+img{
+    color: aliceblue;
+    margin-left: 22%;
+    margin-top: 5vmax;
+}
