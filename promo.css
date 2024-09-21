@@ -1,73 +1,89 @@
-    *{
-        margin:0px;
+    * {
+        margin: 0px;
         padding: 0px;
     }
-    
-    h1{
+
+    h1 {
         margin-top: 2vmax;
         text-align: center;
-        color:#E80C20;
+        color: #E80C20;
         text-shadow: 0.2rem 0.1rem 0.1rem #F8D904;
         font-size: 3vmax;
-       
-       
+
+
     }
 
-    body{
-        background-color:#081E38;
+    body {
+        background-color: #081E38;
     }
 
-     
-    
-    #carro{
-        width: 
-        50vmax;
-        height:55vmin ;
+
+
+    #carro {
+        width:
+            50vmax;
+        height: 55vmin;
         margin-right: 4vmax;
         margin-top: 4vmax;
-        border: solid 2px #F8D904 ;
-        
-   
+        border: solid 2px #F8D904;
 
 
-        
+
+
+
     }
-    #descricao{
-        color:#EDF3FA;
-    
+
+    #descricao {
+        color: #EDF3FA;
+
         font-size: larger;
-       font-style: italic;
-      
-       display: flex;
-       margin-left: 10vmin;
-       margin-right: 10vmin;
-       margin-top: 9vmax;
-      
-        
-        
-    }
-    #utopia{
+        font-style: italic;
+
         display: flex;
-     
-       
-    }
-    
-    header{
-background-color:#A7ABB5;
+        margin-left: 10vmin;
+        margin-right: 10vmin;
+        margin-top: 9vmax;
+
+
 
     }
-    #red{
+
+    #utopia {
+        display: flex;
+
+
+    }
+
+    header {
+        background-color: #A7ABB5;
+        padding: 2vw;
+    }
+
+    #red {
         width: 5vmax;
-        margin-left: 35%; 
+        margin-left: 35%;
     }
-   a{
-    color:#081E38;
-    text-decoration: none;
-   margin-left: 2vmax;
-   margin-top: 5vmax;
-   }
 
-   
+    a {
+        color: #081E38;
+        text-decoration: none;
+        margin-left: 2vmax;
+        font-family: sans-serif;
 
-   
-    
+
+
+    }
+
+    #pil {
+        margin-left: 10%;
+    }
+
+
+    #tit {
+        margin-left: 35%;
+    }
+
+    #sob {
+        float: right;
+        margin-right: 10%;
+    }
